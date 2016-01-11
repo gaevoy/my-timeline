@@ -17,17 +17,17 @@
         },   
 		{
             "start_date": {"year": "2012", "month": "09", "day": "28"},
-            "background": {"url": "img/IMG_2833.jpg"},
+            "background": {"url": "img/IMG_2833.JPG"},
             "text": {
-                "headline": "<i class='coin'>6000</i> Basemant",
+                "headline": "<i class='coin'>5000</i> Basemant",
                 "text": "..."
             }
         },        
 		{
             "start_date": {"year": "2013", "month": "04", "day": "06"},
-            "background": {"url": "img/IMG_4007.jpg"},
+            "background": {"url": "img/IMG_4007.JPG"},
             "text": {
-                "headline": "Basemant",
+                "headline": "<i class='coin'>6000</i> Basemant",
                 "text": "..."
             }
         }
