@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>The 7th Century</title>
+    <title>My building</title>
     <meta charset="utf-8">
     <meta name="description" content="TimelineJS Embed">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -9,15 +9,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<link rel="stylesheet" href="//cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
     <style>
-      html, body {
-      	height:100%;
-      	width:100%;
-      	padding: 0px;
-      	margin: 0px;
-      }
-      .tl-timeline {
-      	
-      }
+		html, body {
+			height:100%;
+			width:100%;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		body .tl-slide .tl-slide-background {
+			opacity: 1;
+			background-size: contain;
+		}
+		body .tl-slide .tl-slide-content-container {
+			vertical-align: bottom;
+		}
+		body .tl-slide .tl-slide-content-container .tl-slide-content .tl-text {
+			text-align: right;
+			width: 100%;
+			max-width: none;
+		}
+		
+		.tl-storyslider .tl-headline .coin {
+			position: relative;
+			display: inline-block;
+			width: 70px;
+			text-align: center;
+			font-size: 85%;
+			font-style: normal;
+		}		
+		.tl-storyslider .tl-headline .coin:before {
+			content: "";
+			position: absolute;
+			z-index: -1;
+			top: -22px;
+			left: 1px;
+			background-image: url("img/coin-us-dollar-icon.png");
+			height: 70px;
+			width: 70px;
+			background-size: cover;
+		}
       
     </style>
     <!-- HTML5 shim, for IE6-8 support of HTML elements-->
@@ -32,7 +62,11 @@
 	 
     <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline-min.js"></script>
     <script>
-      var timeline = new TL.Timeline('timeline', 'building.json', {});
+      var timeline = new TL.Timeline('timeline', 'building.json', {
+		  timenav_height: 85, 
+		  timenav_height_min: 85, 
+		  timenav_height_percentage: 5
+	  });
       window.onresize = function(event) {
       	timeline.updateDisplay();
       }
