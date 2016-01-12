@@ -3,33 +3,159 @@
 		"background": {"url": "img/IMG_5130.jpg"},
 		"text": {
 			"headline": "My Building",
-			"text":     "I'm .NET/JS developer and this the most hard project of my life"
+			"text":     "I'm .NET/JS developer and this the most hardest project of my life"
 		}
     },
     "events": [
         {
             "start_date": {"year": "2010", "month": "04", "day": "24"},
             "background": {"url": "img/IMG_5130.jpg"},
-            "text": {
-                "headline": "<i class='coin'>0</i> Start was here",
-                "text": "..."
-            }
-        },   
+            "text": {"headline": "<i class='coin'>0</i> Start was here"}
+        },
 		{
             "start_date": {"year": "2012", "month": "09", "day": "28"},
             "background": {"url": "img/IMG_2833.JPG"},
-            "text": {
-                "headline": "<i class='coin'>5000</i> Basemant",
-                "text": "..."
-            }
-        },        
+            "text": {"headline": "<i class='coin'>0</i> Basemant"}
+        },
 		{
             "start_date": {"year": "2013", "month": "04", "day": "06"},
             "background": {"url": "img/IMG_4007.JPG"},
-            "text": {
-                "headline": "<i class='coin'>6000</i> Basemant",
-                "text": "..."
-            }
+            "text": {"headline": "<i class='coin'>0</i> Basemant"}
+        },
+		{
+            "start_date": {"year": "2013", "month": "04", "day": "23"},
+            "background": {"url": "img/IMG_4138.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "05", "day": "02"},
+            "background": {"url": "img/IMG_4156.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "05", "day": "08"},
+            "background": {"url": "img/IMG_4303.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "05", "day": "16"},
+            "background": {"url": "img/IMG_4369.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "05", "day": "23"},
+            "background": {"url": "img/IMG_4393.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "06", "day": "06"},
+            "background": {"url": "img/IMG_4463.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "06", "day": "13"},
+            "background": {"url": "img/IMG_4492.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "06", "day": "21"},
+            "background": {"url": "img/IMG_4572.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "06", "day": "27"},
+            "background": {"url": "img/IMG_4717.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "07", "day": "04"},
+            "background": {"url": "img/IMG_4732.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "07", "day": "12"},
+            "background": {"url": "img/IMG_4778.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "07", "day": "19"},
+            "background": {"url": "img/IMG_4805.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "07", "day": "27"},
+            "background": {"url": "img/IMG_4942.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "08", "day": "02"},
+            "background": {"url": "img/IMG_4977.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "08", "day": "10"},
+            "background": {"url": "img/IMG_5030.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "08", "day": "17"},
+            "background": {"url": "img/IMG_5133.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "08", "day": "24"},
+            "background": {"url": "img/IMG_5168.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "09", "day": "01"},
+            "background": {"url": "img/IMG_5399.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "09", "day": "07"},
+            "background": {"url": "img/IMG_5448.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "09", "day": "14"},
+            "background": {"url": "img/IMG_5470.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "09", "day": "21"},
+            "background": {"url": "img/IMG_5510.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "09", "day": "29"},
+            "background": {"url": "img/IMG_5554.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "10", "day": "06"},
+            "background": {"url": "img/IMG_5646.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "10", "day": "13"},
+            "background": {"url": "img/IMG_5666.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "10", "day": "27"},
+            "background": {"url": "img/IMG_5793.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "11", "day": "09"},
+            "background": {"url": "img/IMG_5860.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "11", "day": "24"},
+            "background": {"url": "img/IMG_5936.JPG"},
+            "text": {"headline": "<i class='coin'>0</i> "}
         }
     ]
 }
