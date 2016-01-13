@@ -20,7 +20,9 @@
 		{
             "start_date": {"year": "2012", "month": "09", "day": "28"},
             "background": {"url": "img/IMG_2833.JPG"},
-            "text": {"headline": "<i class='coin'>1200</i> Basemant"}
+            "text": {"headline": "<i class='coin'>1200</i> Basemant"},
+			"media": {"url": "https://youtu.be/O40Lah6nZ_c"},
+			"unique_id": "basemant"
         },
 		{
             "start_date": {"year": "2013", "month": "04", "day": "06"},
@@ -65,7 +67,9 @@
 		{
             "start_date": {"year": "2013", "month": "06", "day": "21"},
             "background": {"url": "img/IMG_4572.JPG"},
-            "text": {"headline": "<i class='coin'>34600</i> "}
+            "text": {"headline": "<i class='coin'>34600</i> Slabs between 1st and 2nd floor"},
+			"media": {"url": "https://youtu.be/TUfAvz66oQ0"},
+			"unique_id": "floor-slabs"
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "27"},
@@ -160,7 +164,9 @@
 		{
             "start_date": {"year": "2013", "month": "11", "day": "24"},
             "background": {"url": "img/IMG_5936.JPG"},
-            "text": {"headline": "<i class='coin'>72500</i> "}
+            "text": {"headline": "<i class='coin'>72500</i> "},
+			"media":{"url":"img/satelite.gif"},
+			"unique_id": "final"
         }
     ]
 }
