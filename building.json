@@ -10,161 +10,161 @@
         {
             "start_date": {"year": "2010", "month": "04", "day": "24"},
             "background": {"url": "img/IMG_5130.jpg"},
-            "text": {"headline": "<i class='coin'>0</i> Start was here"}
+            "text": {"headline": "<i class='coin'>$0</i> Start was here"}
         },
 		{
             "start_date": {"year": "2012", "month": "08", "day": "13"},
             "background": {"url": "img/blueprint.jpg"},
-            "text": {"headline": "<i class='coin'>480</i> Blueprint"}
+            "text": {"headline": "<i class='coin'>$480</i> Blueprint"}
         },
 		{
             "start_date": {"year": "2012", "month": "09", "day": "28"},
             "background": {"url": "img/IMG_2833.JPG"},
-            "text": {"headline": "<i class='coin'>1200</i> Basemant"},
+            "text": {"headline": "<i class='coin'>$1200</i> Basemant"},
 			"media": {"url": "https://youtu.be/O40Lah6nZ_c"},
 			"unique_id": "basemant"
         },
 		{
             "start_date": {"year": "2013", "month": "04", "day": "06"},
             "background": {"url": "img/IMG_4007.JPG"},
-            "text": {"headline": "<i class='coin'>18000</i> Basemant + bricks"}
+            "text": {"headline": "<i class='coin'>$18000</i> Basemant + bricks"}
         },
 		{
             "start_date": {"year": "2013", "month": "04", "day": "23"},
             "background": {"url": "img/IMG_4138.JPG"},
-            "text": {"headline": "<i class='coin'>19800</i> "}
+            "text": {"headline": "<i class='coin'>$19800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "05", "day": "02"},
             "background": {"url": "img/IMG_4156.JPG"},
-            "text": {"headline": "<i class='coin'>21600</i> "}
+            "text": {"headline": "<i class='coin'>$21600</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "05", "day": "08"},
             "background": {"url": "img/IMG_4303.JPG"},
-            "text": {"headline": "<i class='coin'>22800</i> "}
+            "text": {"headline": "<i class='coin'>$22800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "05", "day": "16"},
             "background": {"url": "img/IMG_4369.JPG"},
-            "text": {"headline": "<i class='coin'>25700</i> "}
+            "text": {"headline": "<i class='coin'>$25700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "05", "day": "23"},
             "background": {"url": "img/IMG_4393.JPG"},
-            "text": {"headline": "<i class='coin'>27400</i> "}
+            "text": {"headline": "<i class='coin'>$27400</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "06"},
             "background": {"url": "img/IMG_4463.JPG"},
-            "text": {"headline": "<i class='coin'>33000</i> "}
+            "text": {"headline": "<i class='coin'>$33000</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "13"},
             "background": {"url": "img/IMG_4492.JPG"},
-            "text": {"headline": "<i class='coin'>33800</i> "}
+            "text": {"headline": "<i class='coin'>$33800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "21"},
             "background": {"url": "img/IMG_4572.JPG"},
-            "text": {"headline": "<i class='coin'>34600</i> Slabs between 1st and 2nd floor"},
+            "text": {"headline": "<i class='coin'>$34600</i> Slabs between 1st and 2nd floor"},
 			"media": {"url": "https://youtu.be/TUfAvz66oQ0"},
 			"unique_id": "floor-slabs"
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "27"},
             "background": {"url": "img/IMG_4717.JPG"},
-            "text": {"headline": "<i class='coin'>35600</i> "}
+            "text": {"headline": "<i class='coin'>$35600</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "04"},
             "background": {"url": "img/IMG_4732.JPG"},
-            "text": {"headline": "<i class='coin'>36600</i> "}
+            "text": {"headline": "<i class='coin'>$36600</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "12"},
             "background": {"url": "img/IMG_4778.JPG"},
-            "text": {"headline": "<i class='coin'>37800</i> "}
+            "text": {"headline": "<i class='coin'>$37800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "19"},
             "background": {"url": "img/IMG_4805.JPG"},
-            "text": {"headline": "<i class='coin'>39200</i> "}
+            "text": {"headline": "<i class='coin'>$39200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "27"},
             "background": {"url": "img/IMG_4942.JPG"},
-            "text": {"headline": "<i class='coin'>39800</i> "}
+            "text": {"headline": "<i class='coin'>$39800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "02"},
             "background": {"url": "img/IMG_4977.JPG"},
-            "text": {"headline": "<i class='coin'>40100</i> "}
+            "text": {"headline": "<i class='coin'>$40100</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "10"},
             "background": {"url": "img/IMG_5030.JPG"},
-            "text": {"headline": "<i class='coin'>42700</i> "}
+            "text": {"headline": "<i class='coin'>$42700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "17"},
             "background": {"url": "img/IMG_5133.JPG"},
-            "text": {"headline": "<i class='coin'>43700</i> "}
+            "text": {"headline": "<i class='coin'>$43700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "24"},
             "background": {"url": "img/IMG_5168.JPG"},
-            "text": {"headline": "<i class='coin'>44500</i> "}
+            "text": {"headline": "<i class='coin'>$44500</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "01"},
             "background": {"url": "img/IMG_5399.JPG"},
-            "text": {"headline": "<i class='coin'>46700</i> "}
+            "text": {"headline": "<i class='coin'>$46700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "07"},
             "background": {"url": "img/IMG_5448.JPG"},
-            "text": {"headline": "<i class='coin'>50800</i> "}
+            "text": {"headline": "<i class='coin'>$50800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "14"},
             "background": {"url": "img/IMG_5470.JPG"},
-            "text": {"headline": "<i class='coin'>52800</i> "}
+            "text": {"headline": "<i class='coin'>$52800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "21"},
             "background": {"url": "img/IMG_5510.JPG"},
-            "text": {"headline": "<i class='coin'>54900</i> "}
+            "text": {"headline": "<i class='coin'>$54900</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "29"},
             "background": {"url": "img/IMG_5554.JPG"},
-            "text": {"headline": "<i class='coin'>56200</i> "}
+            "text": {"headline": "<i class='coin'>$56200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "06"},
             "background": {"url": "img/IMG_5646.JPG"},
-            "text": {"headline": "<i class='coin'>59200</i> "}
+            "text": {"headline": "<i class='coin'>$59200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "13"},
             "background": {"url": "img/IMG_5666.JPG"},
-            "text": {"headline": "<i class='coin'>62000</i> "}
+            "text": {"headline": "<i class='coin'>$62000</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "27"},
             "background": {"url": "img/IMG_5793.JPG"},
-            "text": {"headline": "<i class='coin'>68900</i> "}
+            "text": {"headline": "<i class='coin'>$68900</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "11", "day": "09"},
             "background": {"url": "img/IMG_5860.JPG"},
-            "text": {"headline": "<i class='coin'>70200</i> "}
+            "text": {"headline": "<i class='coin'>$70200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "11", "day": "24"},
             "background": {"url": "img/IMG_5936.JPG"},
-            "text": {"headline": "<i class='coin'>72500</i> "},
+            "text": {"headline": "<i class='coin'>$72500</i> "},
 			"media":{"url":"img/satelite.gif"},
 			"unique_id": "final"
         }
