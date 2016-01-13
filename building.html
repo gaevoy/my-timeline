@@ -91,6 +91,9 @@
 		.tl-slidenav-description {
 			opacity: .4 !important;
 		}
+		body .tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-minor .tl-timeaxis-tick {
+			color: #888;
+		}
       
     </style>
     <!-- HTML5 shim, for IE6-8 support of HTML elements-->
@@ -103,13 +106,14 @@
     <div id="timeline"></div>
     <!-- JavaScript-->
 	 
-    <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline-min.js"></script>
+    <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
     <script>
       var timeline = new TL.Timeline('timeline', 'building.json', {
 		  hash_bookmark: true, 
 		  timenav_height: 85, 
 		  timenav_height_min: 85, 
 		  timenav_height_percentage: 5,
+		  initial_zoom: 4,
 		  ga_property_id: "UA-72365084-1"
 	  });
       window.onresize = function(event) {
