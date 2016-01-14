@@ -10,6 +10,7 @@
         {
             "start_date": {"year": "2012", "month": "06", "day": "01"},
             "background": {"url": "img/IMG_5130.jpg"},
+			"media":{"url":"img/front/IMG_5160.jpg"},
             "text": {"headline": "<i class='coin'>$0</i> Start was here"}
         },
 		{
@@ -52,16 +53,19 @@
 		{
             "start_date": {"year": "2013", "month": "05", "day": "23"},
             "background": {"url": "img/IMG_4393.JPG"},
+			"media":{"url":"img/front/IMG_4410.JPG"},
             "text": {"headline": "<i class='coin'>$27 400</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "06"},
             "background": {"url": "img/IMG_4463.JPG"},
+			"media":{"url":"img/front/IMG_4478.JPG"},
             "text": {"headline": "<i class='coin'>$33 000</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "06", "day": "13"},
             "background": {"url": "img/IMG_4492.JPG"},
+			"media":{"url":"img/front/IMG_4505.JPG"},
             "text": {"headline": "<i class='coin'>$33 800</i> "}
         },
 		{
@@ -74,99 +78,122 @@
 		{
             "start_date": {"year": "2013", "month": "06", "day": "27"},
             "background": {"url": "img/IMG_4717.JPG"},
+			"media":{"url":"img/front/IMG_4724.JPG"},
             "text": {"headline": "<i class='coin'>$35 600</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "04"},
             "background": {"url": "img/IMG_4732.JPG"},
+			"media":{"url":"img/front/IMG_4745.JPG"},
             "text": {"headline": "<i class='coin'>$36 600</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "12"},
             "background": {"url": "img/IMG_4778.JPG"},
+			"media":{"url":"img/front/IMG_4786.JPG"},
             "text": {"headline": "<i class='coin'>$37 800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "19"},
             "background": {"url": "img/IMG_4805.JPG"},
+			"media":{"url":"img/front/IMG_4819.JPG"},
             "text": {"headline": "<i class='coin'>$39 200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "07", "day": "27"},
             "background": {"url": "img/IMG_4942.JPG"},
+			"media":{"url":"img/front/IMG_4950.JPG"},
             "text": {"headline": "<i class='coin'>$39 800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "02"},
             "background": {"url": "img/IMG_4977.JPG"},
+			"media":{"url":"img/front/IMG_4985.JPG"},
             "text": {"headline": "<i class='coin'>$40 100</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "10"},
             "background": {"url": "img/IMG_5030.JPG"},
+			"media":{"url":"img/front/IMG_5039.JPG"},
             "text": {"headline": "<i class='coin'>$42 700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "17"},
             "background": {"url": "img/IMG_5133.JPG"},
+			"media":{"url":"img/front/IMG_5137.JPG"},
             "text": {"headline": "<i class='coin'>$43 700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "08", "day": "24"},
             "background": {"url": "img/IMG_5168.JPG"},
+			"media":{"url":"img/front/IMG_5163.JPG"},
             "text": {"headline": "<i class='coin'>$44 500</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "01"},
             "background": {"url": "img/IMG_5399.JPG"},
+			"media":{"url":"img/front/IMG_5427.JPG"},
             "text": {"headline": "<i class='coin'>$46 700</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "07"},
             "background": {"url": "img/IMG_5448.JPG"},
+			"media":{"url":"img/front/IMG_5455.JPG"},
             "text": {"headline": "<i class='coin'>$50 800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "14"},
             "background": {"url": "img/IMG_5470.JPG"},
+			"media":{"url":"img/front/IMG_5478.JPG"},
             "text": {"headline": "<i class='coin'>$52 800</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "21"},
             "background": {"url": "img/IMG_5510.JPG"},
+			"media":{"url":"img/front/IMG_5531.JPG"},
             "text": {"headline": "<i class='coin'>$54 900</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "09", "day": "29"},
             "background": {"url": "img/IMG_5554.JPG"},
+			"media":{"url":"img/front/IMG_5567.JPG"},
             "text": {"headline": "<i class='coin'>$56 200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "06"},
             "background": {"url": "img/IMG_5646.JPG"},
+			"media":{"url":"img/front/IMG_5660.JPG"},
             "text": {"headline": "<i class='coin'>$59 200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "13"},
             "background": {"url": "img/IMG_5666.JPG"},
+			"media":{"url":"img/front/IMG_5673.JPG"},
             "text": {"headline": "<i class='coin'>$62 000</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "10", "day": "27"},
             "background": {"url": "img/IMG_5793.JPG"},
+			"media":{"url":"img/front/IMG_5808.JPG"},
             "text": {"headline": "<i class='coin'>$68 900</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "11", "day": "09"},
             "background": {"url": "img/IMG_5860.JPG"},
+			"media":{"url":"img/front/IMG_5872.JPG"},
             "text": {"headline": "<i class='coin'>$70 200</i> "}
         },
 		{
             "start_date": {"year": "2013", "month": "11", "day": "24"},
             "background": {"url": "img/IMG_5936.JPG"},
-            "text": {"headline": "<i class='coin'>$72 500</i> "},
-			"media":{"url":"img/satelite.gif"},
-			"unique_id": "final"
+			"media":{"url":"img/front/IMG_6074.JPG"},
+            "text": {"headline": "<i class='coin'>$72 500</i> "}
+        },
+		{
+            "start_date": {"year": "2013", "month": "11", "day": "24"},
+            "background": {"url":"img/satelite.gif"},
+            "text": {"headline": "Satellite View"},
+			"unique_id": "satellite-view"
         }
     ]
 }

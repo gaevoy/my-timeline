@@ -68,8 +68,8 @@
 		}
 		
 		.tl-media-item {
-			height: 300px !important;
-			width: 400px !important;
+			max-height: 32vh !important;
+			max-width: 28vw !important;
 		}
 		
 		body .tl-slide-media-only .tl-slide-content-container .tl-slide-content .tl-media,
@@ -106,8 +106,15 @@
     <div id="timeline"></div>
     <!-- JavaScript-->
 	 
-    <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline-min.js"></script>
     <script>
+	/*
+	- сделать плавное перелистывание
+	+ добавить вид спереди
+	- попробовать сжать фотки
+	- сделать index.html
+	
+	*/
       var timeline = new TL.Timeline('timeline', 'building.json', {
 		  hash_bookmark: true, 
 		  timenav_height: 85, 
