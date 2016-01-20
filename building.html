@@ -94,6 +94,22 @@
 		body .tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-minor .tl-timeaxis-tick {
 			color: #888;
 		}
+		.tl-slider-container, .tl-slide {
+			left: 0 !important;
+			top: 0 !important;
+		}
+		.tl-slide {
+			transition: opacity .8s ease;
+			opacity: 0 !important;
+		}
+		.tl-slide.current {
+			z-index: 1;
+			opacity: 1 !important;
+		}		
+		.tl-slide.prev {
+			transition: opacity 1.5s ease;
+			z-index: 0;
+		}
       
     </style>
     <!-- HTML5 shim, for IE6-8 support of HTML elements-->
@@ -104,28 +120,30 @@
   </head>
   <body>
     <div id="timeline"></div>
-    <!-- JavaScript-->
-	 
     <script type="text/javascript" src="//cdn.knightlab.com/libs/timeline3/latest/js/timeline-min.js"></script>
     <script>
-	/*
-	- сделать плавное перелистывание
-	+ добавить вид спереди
-	+ попробовать сжать фотки
-	+ сделать index.html
-	
-	*/
-      var timeline = new TL.Timeline('timeline', 'building.json', {
+		var goToId = TL.TimeNav.prototype.goToId;
+		TL.TimeNav.prototype.goToId = function (id, fast, css_animation){
+			id = (id == "") ? "my-building" : id;
+			goToId.call(this, id, fast, css_animation);
+			var $next = $("#" + id);
+			if(!$next.hasClass("current"))	{
+				$(".tl-slide.prev").removeClass("prev");
+				$(".tl-slide.current").addClass("prev").removeClass("current");
+				$next.addClass("current");
+			}
+		};
+		var timeline = new TL.Timeline('timeline', 'building.json', {
 		  hash_bookmark: true, 
 		  timenav_height: 85, 
 		  timenav_height_min: 85, 
 		  timenav_height_percentage: 5,
 		  initial_zoom: 4,
 		  ga_property_id: "UA-72365084-1"
-	  });
-      window.onresize = function(event) {
-      	timeline.updateDisplay();
-      }
+		});
+		window.onresize = function(event) {
+			timeline.updateDisplay();
+		}
     </script>
   </body>
 </html>
